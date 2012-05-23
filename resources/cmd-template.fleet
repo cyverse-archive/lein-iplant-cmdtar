@@ -1,0 +1,3 @@
+#!/bin/bash
+
+java -jar <(:name spec)>-<(:version spec)>-standalone.jar "$@"
